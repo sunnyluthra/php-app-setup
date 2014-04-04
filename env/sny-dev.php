@@ -3,8 +3,7 @@ ini_set('error_reporting', E_ALL);
 
 define('HOME', 'http://sunny.dev');
 
-// ** MySQL settings - You can get this info from your web host ** //
-/** The name of the database for WordPress */
+/** The name of the database */
 define('DB_NAME', 'test');
 
 /** MySQL database username */
