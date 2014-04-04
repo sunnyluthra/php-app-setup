@@ -11,5 +11,5 @@ $table_prefix  = 'predictor_';
 if ( !defined('ABSPATH') )
 	define('ABSPATH', APP_ROOT . '/public/');
 
-/** Sets up WordPress vars and included files. */
+/** Sets up vars and included files. */
 require_once(ABSPATH . 'settings.php');
